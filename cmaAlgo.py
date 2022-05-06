@@ -166,3 +166,5 @@ for seq in solutionsList:
     print("=====================")
     print_map(doomMap)
     print("=====================")
+
+print("All .txt files have been created")
